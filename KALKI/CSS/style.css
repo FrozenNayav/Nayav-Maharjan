@@ -1,0 +1,76 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+
+/* header css */
+.container {
+    width: 1200px;
+    margin: 0px auto;
+}
+
+ul li {
+    display: inline;
+    padding: 5px;
+}
+
+
+header .middle-header ul {
+    list-style: none;
+
+}
+
+
+
+header .middle-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0px;
+}
+
+header .middle-header ul:hover {
+    background-color: #000000;
+    color: aliceblue;
+}
+
+
+header .owl-carousel {
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+    padding: 5px 0px;
+    font-size: 14px;
+    display: flex;
+
+}
+
+header .middle-header {
+    text-align: center;
+    padding: 20px;
+
+}
+/* pop up start */
+
+
+
+
+
+
+
+
+
+/* pop up end */
+header .middle-header .icons .wishlist {
+    color: #000000;
+    background-color: crimson;
+}
+
+.owl-carousel {
+    padding: 10px;
+
+}
+
